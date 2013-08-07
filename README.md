@@ -15,5 +15,5 @@ Open the file **stylesheets/ui.less** and add the next line:
 Open the file **package.json** and add to the libraries:
 
 ```
-"jqueryu"
+"jqueryui"
 ```
