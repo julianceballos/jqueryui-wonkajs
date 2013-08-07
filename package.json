@@ -1,0 +1,14 @@
+{
+    "name": "jqueryui",
+    "description": "jquery ui pack for wonkajs",
+    "author": "@jceb",
+    "version": "1.10.3",
+    "_id": "jqueryui@1.10.3",
+    "resources": {
+        "images": ["jqueryui"],
+        "stylesheets": ["jqueryui"]
+    },
+    "libraries": [
+        "jqueryui"
+    ]
+}
